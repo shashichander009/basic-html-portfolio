@@ -337,7 +337,6 @@ footer p {
     font-size: 4rem;
   }
   .contact-links {
-    display: flex;
     flex-direction: column;
   }
 }
