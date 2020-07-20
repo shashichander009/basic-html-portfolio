@@ -133,7 +133,7 @@ table {
 /* IMPORTANT POINT: We are implementing minimilistc design and for that we
 will use only two colors majorly black and whitesmoke This is intential and by design*/
 
-/* Custom properties/variables  */
+/* root properties */
 :root {
   font-size: 62.5%;
 
@@ -327,7 +327,7 @@ footer p {
 
 /*Media Queries for smaller screens*/
 
-/* for 1200px */
+/* for <1200px breakpoint */
 
 @media (max-width: 75em) {
   html {
